@@ -1,0 +1,6 @@
+function about() {
+    location.href="index.html#about"
+}
+function displaymsg() {
+    alert('Process Is Going On');
+}

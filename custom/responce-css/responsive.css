@@ -1,0 +1,18 @@
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 361px) {}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 360px) {
+    .mob-text-center {
+        text-align: center;
+    }
+
+    .mob-list-style {
+        list-style: none;
+    }
+
+    .mob-ser {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+}

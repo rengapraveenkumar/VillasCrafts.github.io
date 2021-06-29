@@ -1,0 +1,242 @@
+/*core css start*/
+.ml-auto {
+    margin-left: auto;
+}
+
+.coz-bg-primary {
+    background: #e3be00;
+}
+
+.coz-bg-mono {
+    background: #E3BE00;
+}
+
+.coz-bg-hovered li a:hover {
+    background-color: #E3BE00;
+    color: #000;
+}
+
+.coz-wht-shadow {
+    box-shadow: 0px 0px 20px #fff;
+}
+
+.coz-bg-secondary {
+    background: #0025e3;
+}
+
+.coz-clr-secondary {
+    color: #0025e3;
+}
+
+.dark-clr {
+    color: #000;
+}
+
+.coz-mr-3 {
+    margin-right: 15px;
+}
+
+.coz-ml-3 {
+    margin-left: 15px;
+}
+
+.coz-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.round-border {
+    border-radius: 50%;
+}
+
+.mr-7px {
+    margin-right: 7px;
+}
+
+.px-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.shad:hover {
+    box-shadow: 0px 0px 10px #f1f1f1;
+}
+
+/*core css end*/
+
+
+/*color code*/
+.wp-bg-color {
+    background: #075e54;
+}
+
+.insta-bg-color {
+    background: #833AB4;
+}
+
+/*color code*/
+
+/*font*/
+.heading-font {
+    font-family: 'Lobster', cursive;
+}
+
+body {
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+/*slider start*/
+.coz-bg-opty {
+    background: #e3bd00be;
+    border-radius: 30px;
+}
+
+/*slide end*/
+
+/*zoom effect start*/
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.zoom-effect-container {
+    float: left;
+    position: relative;
+    width: 640px;
+    height: 360px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.image-card {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.image-card img {
+    -webkit-transition: 0.4s ease;
+    transition: 0.4s ease;
+}
+
+.zoom-effect-container:hover .image-card img {
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
+}
+
+.coz-a {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    color: #aaa;
+}
+
+/*zoom effect end*/
+
+/*product css start*/
+.wht-border {
+    border: 4px solid #fff;
+}
+
+.insta-border {
+    border-radius: 50%;
+    border-top: 5px solid #405DE6;
+    border-left: 5px solid #C13584;
+    border-right: 5px solid #FD1D1D;
+    border-bottom: 5px solid #FCAF45;
+    padding: 5px;
+}
+
+/*product css end*/
+
+/*service css strt*/
+.big-icon {
+    font-size: 70px;
+}
+
+.mid-icon {
+    font-size: 25px;
+}
+
+.coz-card {
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #20202023;
+    text-align: center;
+}
+
+/*service css end*/
+
+/*zoo-effect-start*/
+
+.zoom-effect-container {
+    float: left;
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 260px;
+    height: 260px;
+}
+
+.image-card {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.image-card img {
+    -webkit-transition: 0.4s ease;
+    transition: 0.4s ease;
+}
+
+.zoom-effect-container:hover .image-card img {
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
+}
+
+.coz-a {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    color: #aaa;
+}
+
+/*next try*/
+
+.card:hover .card {
+    transform: rotateY(180deg);
+}
+
+/*zoom-effect-end*/
+
+/*card*/
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    color: #fff;
+    padding: 5px;
+    border-radius: 20px;
+    border: none;
+}
+
+.coz-sm-txt {
+    font-size: 10px;
+}
+
+.padding-in {
+    padding: inherit;
+}
+
+/*contact*/
+.contact-bg {
+    background: #202020;
+    color: #fff;
+    text-align: center;
+    margin-bottom: -17px;
+}
